@@ -744,5 +744,6 @@ The system successfully handles:
 
 ---
 
-*Built with ❤️ using Node.js, Express.js, and modern best practices*
+*Presented this in Rewind n Recode, a nationl level hackthon hosted by IIIT Bhubaneshwar and secured 6th Rank*
+
 
